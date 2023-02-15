@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Валентина Добрыднева](https://up.htmlacademy.ru/javascript/28/user/1860395).
-* Наставник: [Олег Цыганов] ().
+* Наставник: [Олег Цыганов] (https://htmlacademy.ru/profile/olegtsyganov).
 
 ---
 
