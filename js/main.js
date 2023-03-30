@@ -1,2 +1,3 @@
-import './data.js';
-import './functions.js';
+import {finalComments} from './data';
+
+finalComments();

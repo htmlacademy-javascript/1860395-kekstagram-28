@@ -55,5 +55,9 @@ const createCard = () => {
   };
 };
 
-const allComments = Array.from({length: finalCommentsCount}, createCard);
+const finalComments = () => {
+  const allComments = Array.from({length: finalCommentsCount}, createCard);
 console.log(allComments);
+};
+
+export {finalComments};
